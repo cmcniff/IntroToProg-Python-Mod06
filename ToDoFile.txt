@@ -1,0 +1,6 @@
+Grocery Shop,10
+Laundry,9
+Dishes,8
+Lawn Mow,7
+Cook dinner,6
+Shower,5
